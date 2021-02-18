@@ -1,13 +1,13 @@
   
 var convert = (num) => {
-  if(num == 0){return "one";}
-  if(num == 1){return "یک";}
-  if(num == 2){return "دو";}
-  if(num == 3){return "سه";}
-  if(num == 4){return "چهار";}
-  if(num == 5){return "پنج";}
-  if(num == 6){return "شش";}
-  if(num == 7){return "هفت";}
-  if(num == 8){return "هشت";}
-  if(num = =9){return "نه";}
+  if(num == 0){return "zero";}
+  if(num == 1){return "one";}
+  if(num == 2){return "two";}
+  if(num == 3){return "three";}
+  if(num == 4){return "four";}
+  if(num == 5){return "five";}
+  if(num == 6){return "six";}
+  if(num == 7){return "seven";}
+  if(num == 8){return "eight";}
+  if(num = =9){return "nine";}
 }
