@@ -1,5 +1,5 @@
   
-function convert(num){
+function convert = (num) => {
   if(num == 0){return "zero";}
   if(num == 1){return "one";}
   if(num == 2){return "two";}
