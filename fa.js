@@ -9,5 +9,5 @@ function convert = (num) => {
   if(num == 6){return "six";}
   if(num == 7){return "seven";}
   if(num == 8){return "eight";}
-  if(num = =9){return "nine";}
+  if(num == 9){return "nine";}
 }
