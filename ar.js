@@ -8,5 +8,5 @@ function convert = (num) => {
   if(num == 6){return "شمسة";}
   if(num == 7){return "سبعة";}
   if(num == 8){return "eight";}
-  if(num = =9){return "nine";}  
+  if(num == 9){return "nine";}  
 }
