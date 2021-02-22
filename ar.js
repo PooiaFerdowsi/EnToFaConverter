@@ -5,7 +5,7 @@ function convert = (num) => {
   if(num == 3){return "ثلاثة";}
   if(num == 4){return "اربعة";}
   if(num == 5){return "خمسة";}
-  if(num == 6){return "شمیة";}
+  if(num == 6){return "شمسة";}
   if(num == 7){return "سبعة";}
   if(num == 8){return "eight";}
   if(num = =9){return "nine";}  
